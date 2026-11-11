@@ -9,11 +9,11 @@ dashboard.png - one-page management dashboard
 Python, pandas, matplotlib, seaborn (Kaggle notebook)
 
 # Key findings
-Total revenue 13.22M BRL across 96,478 delivered orders
-Top category: health_beauty (1.23M BRL)
-Peak month: November 2017
-Southeast region generates 65% of revenue
-79% of reviews are 4 or 5 stars
+> Total revenue 13.22M BRL across 96,478 delivered orders
+> Top category: health_beauty (1.23M BRL)
+> Peak month: November 2017
+> Southeast region generates 65% of revenue
+> 79% of reviews are 4 or 5 stars
 
 # How to run
 Open the notebook on Kaggle with the Olist dataset attached and run all cells.
